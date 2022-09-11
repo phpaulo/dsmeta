@@ -10,7 +10,7 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://github.com/phpaulo">@phpaulo</a>
+                    <a href="https://github.com/phpaulo"> @phpaulo</a>
                 </p>
             </div>
         </header>
